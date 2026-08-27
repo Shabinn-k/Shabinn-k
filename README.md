@@ -4,8 +4,8 @@
 │   shabin@dev                                                │
 │   ───────────────────────────────────────────────────────   │
 │                                                             │
-│   Full-Stack Developer                                     │
-│   Building • Learning • Breaking • Fixing                  │
+│   Full-Stack Developer                                      │
+│   Building • Learning • Breaking • Fixing                   │
 │                                                             │
 │   Languages    JavaScript · TypeScript · Python             │
 │   Frontend     React · Next.js · Tailwind                   │
